@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Frontend Page</title>
+</head>
+<body>
+  <h1>Допуск сотрудников к опасным работам</h1>
+  <ul id="outputData"></ul>
+  <button onclick="getEmployees()">Получить список сотрудников</button>
+  <ul id="output"></ul>
+
+  <h2>Допустить сотрудника</h2>
+  <form id="updateForm">
+    <label for="employeeId">Employee ID:</label>
+    <input type="text" id="employeeId" name="employeeId">
+    <label for="isAllowed">Allowed for Dangerous Work:</label>
+    <select id="isAllowed" name="isAllowed">
+      <option value="true">Yes</option>
+      <option value="false">No</option>
+    </select>
+    <button type="button" onclick="updateStatus()">Update Status</button>
+  </form>
+
+  <h2>Скачать файл с сотрудниками</h2>
+  <button onclick="downloadFile('xml')">Download XML</button>
+  <button onclick="downloadFile('html')">Download HTML</button>
+  <button onclick="downloadFile('json')">Download JSON</button>
+  <script src="/frontend.js"></script>
+</body>
+</html>

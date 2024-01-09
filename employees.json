@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "name": "Яна Храменкова",
+    "isAllowed": false
+  },
+  {
+    "id": "2",
+    "name": "Мария Башаримова",
+    "isAllowed": false
+  },
+  {
+    "id": "3",
+    "name": "Артём Сикорин",
+    "isAllowed": true
+  }
+]
