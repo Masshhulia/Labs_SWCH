@@ -1,0 +1,29 @@
+
+[
+    {
+      "title": "Технические Инспекции и Аудиты",
+      "description": "Проведение технических инспекций рабочих мест. Аудит безопасности и оценка рисков.",
+      "images": ["../images/11.jpg", "../images/12.jpg", "../images/13.jpg"]
+    },
+    {
+      "title": "Промышленный Альпинизм",
+      "description": "Работы на высоте: монтаж, ремонт и обслуживание. Альпинистские работы на фасадах и сооружениях.",
+      "images": ["../images/14.jpg", "../images/15.jpg", "../images/16.jpg"]
+    },
+    {
+      "title": "Спасательные Службы",
+      "description": "Организация спасательных операций в опасных условиях. Обучение персонала по техникам выживания и спасения.",
+      "images": ["https://krasnodar-tr.gazprom.ru/d/story/2f/143919/img_9857.jpg", "https://sun9-18.userapi.com/impg/1u2JzHS8CjHq9n4ZiTHAmpIpgrC25dCTb9avQA/WU8QCTHDA2Y.jpg?size=1422x964&quality=95&sign=24f3bb442da87f243cf4eb59075865a3&c_uniq_tag=scLNd2_DbTjTlzEL3WEnvJO1g61Rke7lxAk4n3C8xvY&type=album", "https://dpocpp.ru/pluginfile.php/15085/course/overviewfiles/IMG_0842.jpg"]
+    },
+    {
+      "title": "Управление Опасными Веществами",
+      "description": "Обработка и утилизация опасных отходов. Консультации по безопасному хранению и транспортировке.",
+      "images": ["https://u.9111s.ru/uploads/202107/03/3df0dc46ed07a6496ea810a557ceac4c.jpg", "https://musor.moscow/wp-content/uploads/2021/11/opasnye-othody-1.jpg", "https://svs.delta-servis.com/wp-content/uploads/2020/05/2.jpg"]
+    },
+    {
+      "title": "Обследование и Санация",
+      "description": "Работы по обнаружению и ликвидации опасных веществ. Санация территорий от загрязнений.",
+      "images": ["https://otvet.imgsmail.ru/download/24150667_96d5298b4cc510e41bf1d6ec8f9a9e26_800.jpg", "https://1.bp.blogspot.com/-YGcwwq-KtQI/Xp5nlZZo7lI/AAAAAAAAa2c/mop96f1LZnQaxmUqdfz5wMTfCKx0g8lPQCLcBGAsYHQ/s1600/DSC02243.JPG", "https://cdn-st2.rtr-vesti.ru/vh/pictures/hd/418/640/1.jpg"]
+    }
+  ]
+  

@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "position": "Software Engineer",
+      "imageUrl": "../images/6_m.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "position": "UI/UX Designer",
+      "imageUrl": "../images/1.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Alex Johnson",
+      "position": "Project Manager",
+      "imageUrl": "../images/7_m.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Emily Smith",
+      "position": "Marketing Specialist",
+      "imageUrl": "../images/2.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Michael Davis",
+      "position": "Data Scientist",
+      "imageUrl": "../images/8_m.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Olivia White",
+      "position": "Graphic Designer",
+      "imageUrl": "../images/3.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Daniel Brown",
+      "position": "Systems Analyst",
+      "imageUrl": "../images/9_m.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Sophia Miller",
+      "position": "HR Manager",
+      "imageUrl": "../images/4_g.jpg"
+    },
+    {
+      "id": 9,
+      "name": "William Taylor",
+      "position": "Network Administrator",
+      "imageUrl": "../images/10_m.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Ella Anderson",
+      "position": "UX Researcher",
+      "imageUrl": "../images/5_g.jpg"
+    }
+  ]
+  

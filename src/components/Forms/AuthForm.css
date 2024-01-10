@@ -1,0 +1,11 @@
+.auth-form {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .auth-button {
+    margin-top: 10px;
+    margin-right: 10px;
+  }
+  
